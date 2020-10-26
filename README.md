@@ -1,0 +1,1 @@
+# Malaria-Detection-using-Max-Voting-on-Fine-Tuned-Models
